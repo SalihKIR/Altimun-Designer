@@ -1,5 +1,3 @@
 # Altimun-Designer
  Ses-Uretici-Devresi
-https://ibb.co/z6RFjMT
-https://ibb.co/hgN10X5
-
+https://i.ibb.co/QDNkzg3/Sesdevreresim.png
