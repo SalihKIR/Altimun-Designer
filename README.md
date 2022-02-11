@@ -1,4 +1,5 @@
 # Altimun-Designer
  Ses-Uretici-Devresi
-![Sesdevreresim1.png (492×525)](file:///C:/Users/Salih/Desktop/Sesdevreresim1.png)
+https://ibb.co/z6RFjMT
+https://ibb.co/hgN10X5
 
