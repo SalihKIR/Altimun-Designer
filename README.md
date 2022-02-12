@@ -8,6 +8,7 @@
 ![enter image description here](https://320volt.com/wp-content/uploads/2011/06/555-entegreli-ses-ton-ureteci-devresi.gif)
 For TR
 Ses üreteci devresinde ürettiği sesin tonu R1, R2 ya da C’nin değeri değiştirilerek ayarlanabilir.
+
 For The Word
 In the sound generator circuit, the pitch of the sound is changed by changing R1, R2, or C.
 
